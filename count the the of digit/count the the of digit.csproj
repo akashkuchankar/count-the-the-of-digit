@@ -43,9 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="fibonacci series.cs" />
     <Compile Include="find the value of a^b.cs" />
+    <Compile Include="palindrome number.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reverse number.cs" />
+    <Compile Include="sum of all digit of number.cs" />
+    <Compile Include="sum of digit.cs" />
+    <Compile Include="swap two number with third number.cs" />
+    <Compile Include="swaping number without third number.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
